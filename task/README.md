@@ -1,3 +1,9 @@
+#This is how output look like
+##Landing page
+![image](https://user-images.githubusercontent.com/102454454/226890162-48c19d1c-a9f5-4af7-b14b-e085087a62a2.png)
+##User Profile page
+![image](https://user-images.githubusercontent.com/102454454/226890529-2acfb01b-955f-499e-a6ce-5fb363c71289.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
